@@ -38,5 +38,5 @@ version2
 <div class="gd__aspect-ratio-box">
 <div class="swf"dir="ltr" style="text-align: left; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" trbidi="on">
 <embed height="100%" pluginspage="http://www.macromedia.com/go/getflashplayer" src="INSERT SWF FILE HERE" width="100%"></embed>
-</div>
+</div></div>​
 ```
